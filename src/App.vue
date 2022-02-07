@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Wagwan?</h1>
+    <Header title="Wagwan?" />
   </div>
 </template>
 
