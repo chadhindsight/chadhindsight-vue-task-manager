@@ -7,7 +7,7 @@
       :text="showAddTask ? 'Close' : 'Add Task'"
       :color="showAddTask ? 'red' : 'green'"
     /> -->
-    <Button text="Add Task" color="blue" />
+    <Button text="Add a Task" color="blue" />
   </header>
 </template>
 
