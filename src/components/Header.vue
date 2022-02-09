@@ -19,7 +19,6 @@ export default {
     title: String,
     showAddTask: Boolean,
   },
-  //   Big button energy
   components: { Button },
   //   computed: {
   //     homePage() {
