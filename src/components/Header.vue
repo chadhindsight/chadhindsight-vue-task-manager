@@ -20,6 +20,7 @@ export default {
     showAddTask: Boolean,
   },
   components: { Button },
+
   //   computed: {
   //     homePage() {
   //       if (this.$route.path === "/") {
