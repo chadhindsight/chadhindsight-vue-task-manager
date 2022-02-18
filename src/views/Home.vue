@@ -24,7 +24,6 @@ export default {
       tasks: [],
     };
   },
-  // Where the magic happens
   methods: {
     async addTask(task) {
       const res = await fetch("api/tasks", {
