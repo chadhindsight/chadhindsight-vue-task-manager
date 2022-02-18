@@ -6,6 +6,6 @@
 <script>
 export default {
   name: "About",
-  inheritAttrs: false, // disable 'non-props' warning.
+  inheritAttrs: false, // disable 'non-props' warning
 };
 </script>
