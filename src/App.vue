@@ -49,8 +49,7 @@ body {
   overflow: auto;
   min-height: 300px;
   border: 1px solid steelblue;
-  padding: 29px;
-
+  padding: 30px;
   border-radius: 5px;
 }
 .btn {
