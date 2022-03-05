@@ -62,7 +62,7 @@ body {
   border-radius: 5px;
   cursor: pointer;
   text-decoration: none;
-  font-size: 13px;
+  font-size: 15px;
   font-family: inherit;
 }
 .btn:focus {
