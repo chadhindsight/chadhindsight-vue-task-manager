@@ -52,6 +52,7 @@ body {
   padding: 30px;
   border-radius: 5px;
 }
+/* To turn into a driveway */
 .btn {
   display: inline-block;
   background: #000;
