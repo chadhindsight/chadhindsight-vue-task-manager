@@ -52,7 +52,7 @@ body {
   padding: 30px;
   border-radius: 5px;
 }
-
+/* A button */
 .btn {
   display: inline-block;
   background: #000;
