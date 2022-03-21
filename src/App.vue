@@ -58,7 +58,7 @@ body {
   background: #000;
   color: #fff;
   border: none;
-  padding: 11px 21px;
+  padding: 10px 20px;
   margin: 5px;
   border-radius: 5px;
   cursor: pointer;
