@@ -45,7 +45,7 @@ body {
 }
 .container {
   max-width: 500px;
-  margin: 19px auto;
+  margin: 20px auto;
   overflow: auto;
   min-height: 300px;
   border: 2px solid steelblue;
