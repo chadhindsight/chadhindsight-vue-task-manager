@@ -43,6 +43,7 @@ export default {
 body {
   font-family: "Poppins", sans-serif;
 }
+/* boss */
 .container {
   max-width: 500px;
   margin: 20px auto;
